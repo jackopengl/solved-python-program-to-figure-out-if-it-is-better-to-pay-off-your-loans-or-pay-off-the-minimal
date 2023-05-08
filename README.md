@@ -1,0 +1,11 @@
+Download Link: https://assignmentchef.com/product/solved-python-program-to-figure-out-if-it-is-better-to-pay-off-your-loans-or-pay-off-the-minimal
+<br>
+You will write a program to figure out if it is better to pay off your loans or pay off the minimal and invest the rest of the money. Interest is applied monthly. So for every month, you first apply the interest, then pay the loan and finally invest the rest. You should validate user inputs. – Money owed in loans, annual inter, minimum monthly loan payment, current age, and predicted annual rate values cannot be below 0. – The amount of money you will be putting towards loans/retirement each month cannot be less than the minimum monthly loan. – Retirement age cannot be less than current age.
+
+The program should also print out a warning if you still owe money after retiring and the amount.
+
+Output should look like below——–
+
+Enter how much money you owe in loans: 10000Enter the annual interest rate of the loans: .1Enter your minimum monthly loan payment: 20Enter how much money you will be putting towards loans/retirement each month: 200Enter your current age: 30Enter the age you plan to retire at: 65Enter your predicted annual rate of return: .2Warning after you retire you will still have $250453.74 in loans left.You should only make minimum payments on your loans and invest the restIf you do you will have $11168878.10 as opposed to $4233691.68 when you retire.
+
+Output should like below:Enter how much money you owe in loans: -2Enter how much money you owe in loans: -3Enter how much money you owe in loans: 1000Enter the annual interest rate of the loans: -23Enter the annual interest rate of the loans: -2Enter the annual interest rate of the loans: 0.3Enter your minimum monthly loan payment: 40Enter how much money you will be putting towards loans/retirement each month: 100Enter your current age: 50Enter the age you plan to retire at: 65Enter your predicted annual rate of return: .1You should pay of all of your loans before you start investingIf you do you will have $36520.69 as opposed to $35443.26 when you retire.
